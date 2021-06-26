@@ -13,7 +13,7 @@ class App extends React.Component {
     return (
       <div className={styles.container}>
         
-        weekspicker!
+        weekspicker! 
         matchdate!
         matchresult!
         teams!
